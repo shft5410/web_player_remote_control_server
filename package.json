@@ -4,6 +4,7 @@
     "version": "1.0.0",
     "main": "dist/index.js",
     "type": "module",
+    "license": "GPL-3.0-or-later",
     "scripts": {
         "dev": "nodemon --watch src --exec tsx src/index.ts --log debug",
         "build": "tsc && cp package.json dist/",

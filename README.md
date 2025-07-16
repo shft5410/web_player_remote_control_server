@@ -59,3 +59,8 @@ The following options are available:
 | `--port` | `9772`      | The port on which the server will listen for incoming WebSocket connections and HTTP requests. |
 | `--host` | `localhost` | The host address on which the server will listen.                                              |
 | `--log`  | `info`      | The log level for the server. Available levels are `debug`, `info`, `error`, and `silent`.     |
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.
+See the [LICENSE](./LICENSE) file for details.
